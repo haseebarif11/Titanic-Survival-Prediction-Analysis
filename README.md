@@ -32,8 +32,7 @@ This project analyzes the famous Titanic dataset to identify key factors that in
 ## 📁 Repository Structure
 
 ```bash
-Py-and-AI/
-├── data/               # Dataset location (train.csv)
+|
 ├── docs/               # Project documentation and detailed reports
 │   └── analysis_report.md
 ├── notebooks/          # Jupyter notebooks for analysis and modeling
